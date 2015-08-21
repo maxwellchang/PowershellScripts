@@ -1,0 +1,1 @@
+Copy-Item "C:\Program Files (x86)\Websense\Web Security\bin\config.xml" "C:\Program Files (x86)\Websense\backups\config_$(get-date -Format yyyy-MM-dd).xml"
