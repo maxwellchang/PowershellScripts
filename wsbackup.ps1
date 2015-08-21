@@ -1,0 +1,1 @@
+& "C:\Program Files (x86)\Websense\Web Security\bin\wsbackup.exe" -b -d "C:\Program Files (x86)\Websense"
